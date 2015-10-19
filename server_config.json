@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://dbuser:12345@ds037814.mongolab.com:37814/push_user",
+
+    "gcm": {
+        "apiKey": "AIzaSyCeoLJFzSXyPK4v1XWtGRoBdjZuYop0-dI"
+    }
+}
